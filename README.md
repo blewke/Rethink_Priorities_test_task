@@ -1,5 +1,8 @@
 # Rethink_Priorities_test_task
 
+The analysis.R script contains the analysis I conducted for the test task.
+
+
 Run on a MacBook with R 3.6.2
 
 All used packages and their versions are saved in the file renv.lock and can be loaded with the renv packacke: https://rstudio.github.io/renv/articles/renv.html
