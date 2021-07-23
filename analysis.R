@@ -1,3 +1,5 @@
+renv::restore()
+
 library(gsheet)
 library(tidyverse)
 library(GGally)
@@ -11,8 +13,6 @@ url = 'https://docs.google.com/spreadsheets/d/1pdWo_Q4FyHkL_E12zrp63HQA3txPs4TNG
 
 # extract the data from the google sheet
 dat = as_tibble(gsheet2tbl(url))
-
-summary(dat)
 
 
 ##make the column headings more convenient
