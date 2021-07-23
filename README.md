@@ -7,7 +7,8 @@ All used packages and their versions are saved in the file renv.lock and can be 
 
 session info:
 
-> sessionInfo()
+sessionInfo()
+
 R version 3.6.2 Patched (2020-01-25 r77715)
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
 Running under: macOS Mojave 10.14.5
