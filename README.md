@@ -1,6 +1,7 @@
 # Rethink_Priorities_test_task
 
 The analysis.R script contains the analysis I conducted for the test task.
+The data that was analysed is simulated and does not reflect the responses to a real survey.
 
 
 Run on a MacBook with R 3.6.2
